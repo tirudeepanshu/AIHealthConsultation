@@ -70,7 +70,7 @@ const Register: React.FC = () => {
               <Input
                 label="First Name"
                 type="text"
-                placeholder="Rahul"
+                placeholder="Shyam"
                 icon={<User className="h-4 w-4" />}
                 error={errors.firstName?.message}
                 {...register('firstName', {
@@ -101,7 +101,7 @@ const Register: React.FC = () => {
             <Input
               label="Email address"
               type="email"
-              placeholder="rahul.sir@example.com"
+              placeholder="shyam@example.com"
               icon={<Mail className="h-4 w-4" />}
               error={errors.email?.message}
               {...register('email', {

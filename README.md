@@ -1,14 +1,8 @@
 # AI Health Consultation System# Getting Started with Create React App
 
-
-
 A modern, responsive web application for AI-powered health consultations built with React, TypeScript, and Tailwind CSS.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-
 ## 🚀 Features## Available Scripts
-
-
 
 ### ✅ Completed FeaturesIn the project directory, you can run:
 
@@ -58,15 +52,11 @@ Builds the app for production to the `build` folder.\
 
 - **Build Tool**: Create React AppSee the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-
-
 ## 📦 Installation### `npm run eject`
 
+1. **Clone the repository\*\***Note: this is a one-way operation. Once you `eject`, you can’t go back!\*\*
 
-
-1. **Clone the repository****Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-```bash
+````bash
 
 git clone <repository-url>If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
@@ -82,7 +72,7 @@ cd ai-health-consultation
 
 npm install## Learn More
 
-```
+````
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
@@ -94,7 +84,7 @@ npm start
 ```
 
 4. **Open in browser**
-Navigate to `http://localhost:3000`
+   Navigate to `http://localhost:3000`
 
 ## 🏗️ Project Structure
 
@@ -133,11 +123,13 @@ src/
 ## 🎨 Design System
 
 ### Colors
+
 - **Primary**: Blue theme (`primary-50` to `primary-900`)
 - **Secondary**: Gray scale for text and backgrounds
 - **Status**: Green (success), Red (error), Yellow (warning)
 
 ### Components
+
 - **Button**: Multiple variants (primary, secondary, outline, ghost)
 - **Card**: Consistent container with shadow and padding
 - **Input**: Form inputs with icons and error states
@@ -146,13 +138,17 @@ src/
 ## 🔧 Configuration
 
 ### Tailwind CSS
+
 The project uses Tailwind CSS v3.4.0 with custom configuration:
+
 - Custom color palette
 - Extended spacing and typography
 - Forms plugin for better form styling
 
 ### TypeScript
+
 Strict TypeScript configuration with:
+
 - Interface definitions for all data models
 - Type-safe component props
 - Comprehensive error handling types
@@ -171,6 +167,7 @@ Strict TypeScript configuration with:
 ## 🚀 Development Roadmap
 
 ### Phase 1: Foundation ✅
+
 - [x] Project setup and structure
 - [x] UI component library
 - [x] Layout and navigation
@@ -178,6 +175,7 @@ Strict TypeScript configuration with:
 - [x] Dashboard implementation
 
 ### Phase 2: Chat Interface (Current)
+
 - [ ] Chat UI components
 - [ ] Symptom input forms
 - [ ] Emergency alert system
@@ -185,18 +183,21 @@ Strict TypeScript configuration with:
 - [ ] State management
 
 ### Phase 3: Backend Integration
+
 - [ ] API service layer
 - [ ] Authentication system
 - [ ] Database integration
 - [ ] AI model integration
 
 ### Phase 4: Advanced Features
+
 - [ ] Health data analytics
 - [ ] Medical history
 - [ ] Appointment scheduling
 - [ ] Notifications system
 
 ### Phase 5: Production
+
 - [ ] Performance optimization
 - [ ] Security implementation
 - [ ] Testing suite
@@ -228,8 +229,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Rahul Sir**
-- Email: rahul.sir@example.com
+**Shyam**
+
+- Email: shyam@example.com
 - Phone: +91 98765 43210
 
 ## 🙏 Acknowledgments

@@ -8,8 +8,8 @@ const Layout: React.FC = () => {
 
   // Mock user data - this will come from auth context later
   const user = {
-    name: 'Rahul Sir',
-    // avatar: '/api/avatars/rahul-sir.jpg'
+    name: 'Shyam',
+    // avatar: '/api/avatars/shyam.jpg'
   };
 
   const handleMenuClick = () => {

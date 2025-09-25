@@ -22,11 +22,11 @@ const Profile: React.FC = () => {
         <div className="space-y-4">
           <div>
             <label className="block text-sm font-medium text-gray-700">Full Name</label>
-            <p className="text-gray-900 mt-1">Rahul Sir</p>
+            <p className="text-gray-900 mt-1">Shyam</p>
           </div>
           <div>
             <label className="block text-sm font-medium text-gray-700">Email</label>
-            <p className="text-gray-900 mt-1">rahul.sir@example.com</p>
+            <p className="text-gray-900 mt-1">shyam@example.com</p>
           </div>
           <div>
             <label className="block text-sm font-medium text-gray-700">Phone</label>

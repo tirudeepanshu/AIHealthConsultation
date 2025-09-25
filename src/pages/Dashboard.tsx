@@ -56,7 +56,7 @@ const Dashboard: React.FC = () => {
     <div className="space-y-6">
       {/* Welcome section */}
       <div className="bg-gradient-to-r from-primary-600 to-primary-700 rounded-xl text-white p-6">
-        <h1 className="text-2xl font-bold mb-2">Good morning, Rahul! 👋</h1>
+        <h1 className="text-2xl font-bold mb-2">Good morning, Shyam! 👋</h1>
         <p className="text-primary-100">
           How are you feeling today? I'm here to help you stay healthy.
         </p>
